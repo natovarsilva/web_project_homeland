@@ -1,0 +1,17 @@
+.nav__logo {
+  display: flex;
+  margin: 0 auto;
+  padding-top: 34px;
+}
+
+@media screen and (max-width: 768px) {
+  .nav__logo {
+    max-width: 254px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .nav__logo {
+    max-width: 188px;
+  }
+}

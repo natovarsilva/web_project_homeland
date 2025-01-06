@@ -1,0 +1,28 @@
+.footer__copyright {
+  width: 194px;
+  height: 16px;
+  top: 1968px;
+  left: 543px;
+  margin: 92px auto 0;
+  padding-bottom: 24px;
+
+  font-family: Inter;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 16px;
+  text-align: right;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+}
+
+@media screen and (max-width: 768px) {
+  .footer__copyright {
+    margin: 88px auto 0;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .footer__copyright {
+    margin: 64px auto 0;
+  }
+}
