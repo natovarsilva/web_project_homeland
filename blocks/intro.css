@@ -4,9 +4,8 @@
 }
 
 .intro__title {
-  font-family: Inter;
+  font-family: "Inter black 900", Arial, sans-serif;
   font-size: 54px;
-  font-weight: 900;
   line-height: 58px;
   text-align: left;
   text-underline-position: from-font;
@@ -16,7 +15,6 @@
 .intro__quote {
   font-family: Inter;
   font-size: 24px;
-  font-weight: 400;
   line-height: 34px;
   text-align: left;
   text-underline-position: from-font;
@@ -24,9 +22,7 @@
 }
 
 .intro__quote-author {
-  font-family: Inter;
   font-size: 24px;
-  font-weight: 400;
   line-height: 34px;
   text-align: right;
   text-underline-position: from-font;
@@ -34,9 +30,7 @@
 }
 
 .intro__info {
-  font-family: Inter;
   font-size: 16px;
-  font-weight: 400;
   line-height: 26.08px;
   text-align: left;
   text-underline-position: from-font;
