@@ -1,7 +1,9 @@
 @font-face {
-  font-family: "inter regular 400";
+  font-family: "inter";
   src: url(/vendor/fonts/Inter-Regular.woff2);
 }
+
+/*Si este es el ajuste correcto, una vez aprobado el proyecto, lo borraré
 
 @font-face {
   font-family: "inter black 900";
@@ -11,4 +13,6 @@
 @font-face {
   font-family: "inter semi-bold 600";
   src: url(/vendor/fonts/Inter-SemiBold.woff2);
+  font-weight: 600;
 }
+*/

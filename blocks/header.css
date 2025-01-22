@@ -10,7 +10,7 @@
   max-height: 200px;
   top: 194px;
   margin: 92px auto 0;
-  font-family: "Inter black 900", Arial, sans-serif;
+  font-family: "inter", Arial, sans-serif;
   font-weight: 900;
   font-size: 96px;
   line-height: 100px;
@@ -24,6 +24,7 @@
   margin-top: 32px;
   margin-left: auto;
   margin-right: auto;
+  margin-bottom: 64px;
   font-size: 30px;
   line-height: 36px;
   /* or 120% */
@@ -74,6 +75,7 @@
     font-size: 16px;
     line-height: 20px;
     margin: 16px auto 40px;
+    margin-bottom: 35px;
   }
 
   .header__content_image {

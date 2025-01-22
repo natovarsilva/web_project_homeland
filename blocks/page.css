@@ -1,7 +1,8 @@
 .page {
   /*min-width: ;
     max-width: ;*/
-  font-family: "Inter regular 400", Arial, sans-serif;
+  font-family: "Inter", Arial, sans-serif;
+  font-weight: 400;
   color: white;
   background-color: #2a2c2f;
   margin: 0;

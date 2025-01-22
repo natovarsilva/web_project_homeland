@@ -12,7 +12,8 @@
 .places__title {
   max-width: 460px;
   max-height: 152px;
-  font-family: "inter black 900";
+  font-family: "Inter";
+  font-weight: 900;
   font-size: 72px;
   line-height: 76px;
   grid-area: title;
@@ -28,6 +29,7 @@
 
 .places__artist {
   font-family: "Inter";
+  font-weight: 400;
   font-size: 12px;
   color: rgba(170, 170, 170, 1);
 }
